@@ -66,7 +66,6 @@ const meet = {
 ---
 
 📄 PDF to MCQ Generator
-
 Deep Learning · NLP · Python · Ollama · Phi-3
 
 - Built an automated pipeline that converts PDF documents into multiple-choice questions.
@@ -77,7 +76,6 @@ Deep Learning · NLP · Python · Ollama · Phi-3
 ---
 
 🎓 Student Project Management System (SPMS)
-
 Next.js · Prisma ORM · Neon PostgreSQL · RBAC
 
 - Built a full-stack Student Project Management System using Next.js for both frontend and API routes.
