@@ -158,7 +158,7 @@ Next.js · Prisma ORM · Neon PostgreSQL · RBAC
 
 ## 🏆 Achievements & Certifications
 
-- 🟧 **LeetCode** — Solved **200+ DSA problems** &nbsp; [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/jeniljethva01/)
+- 🟧 **LeetCode** — Solved **200+ DSA problems** &nbsp; [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/MeetJotaniya07/)
 - 🎓 **Teaching Assistant** — Worked as a Flutter Teaching Assistant, gaining hands-on experience in mobile app development and student mentorship.
 
 ---
