@@ -41,7 +41,8 @@ const meet = {
 
   currentlyDoing: "Building Flutter Apps & Solving DSA",
   openTo: "Internships and Collaborations"
-};```
+};
+```
 
 ---
 
